@@ -2,7 +2,7 @@
 Este trabalho utiliza Haskell e a biblioteca JuicyPixels como ferramenta para construir GIFs que demonstram alterações num conjunto de pixels que representam o gráfico da função de um cardióide a partir de alguns parâmetros 
 
 ## Resultados:
-Algumas imagens geradas com o programa até o momento:
+Algumas imagens geradas com o programa até o momento:  
 ![Teste](https://github.com/elc117/t3-2022a-gilson/blob/main/teste.png)
 ![Teste2](https://github.com/elc117/t3-2022a-gilson/blob/main/teste1.png)
 
