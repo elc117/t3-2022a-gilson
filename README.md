@@ -6,4 +6,5 @@ Algumas imagens geradas com o programa até o momento:
 ![Teste](https://github.com/elc117/t3-2022a-gilson/blob/main/teste.png)
 ![Teste2](https://github.com/elc117/t3-2022a-gilson/blob/main/teste1.png)
 
-## A geração do GIF ainda está pendente, necessitando mais estudos sobre as funções de geração de GIF presentes na biblioteca JuicyPixels.
+## OBS.:
+A geração do GIF ainda está pendente, necessitando mais estudos sobre as funções de geração de GIF presentes na biblioteca JuicyPixels.
