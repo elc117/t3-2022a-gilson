@@ -13,5 +13,5 @@
 
 Exemplo de imagem gerada com o trabalho:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text1](https://github.com/elc117/t3-2022a-gilson/blob/main/Image1.png)
 
