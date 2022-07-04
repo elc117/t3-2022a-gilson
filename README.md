@@ -6,7 +6,6 @@
 
 ## Resultados:
   Algumas imagens Geradas com o programa até o momento:  
-![Teste](https://github.com/elc117/t3-2022a-gilson/blob/main/teste.png)
-![Teste2](https://github.com/elc117/t3-2022a-gilson/blob/main/teste1.png)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
