@@ -5,7 +5,9 @@
   A geração de imagens por meio de funções é algo extremamente interessante mas algumas vezes trabalhoso quando implementado em linguagens de paradigma imperativo. Haskell, como uma linguagem de paradigma funcional, se mostra atrativo neste cenário, possibilitando implementação direta e em poucas linhas.
 
 ## Resultados:
-  Algumas imagens Geradas com o programa até o momento:  
+  Exemplo de GIF gerado com o trbalho: 
+  
+ 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
