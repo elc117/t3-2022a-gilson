@@ -5,9 +5,8 @@
   A geração de imagens por meio de funções é algo extremamente interessante mas algumas vezes trabalhoso quando implementado em linguagens de paradigma imperativo. Haskell, como uma linguagem de paradigma funcional, se mostra atrativo neste cenário, possibilitando implementação direta e em poucas linhas.
 
 ## Resultados:
-  Algumas imagens geradas com o programa até o momento:  
+  Algumas imagens Geradas com o programa até o momento:  
 ![Teste](https://github.com/elc117/t3-2022a-gilson/blob/main/teste.png)
 ![Teste2](https://github.com/elc117/t3-2022a-gilson/blob/main/teste1.png)
 
-## OBS.:
-  A geração do GIF ainda está pendente, necessitando mais estudos sobre as funções de geração de GIF presentes na biblioteca JuicyPixels.
+
